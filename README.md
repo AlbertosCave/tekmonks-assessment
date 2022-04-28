@@ -6,6 +6,7 @@ git clone https://github.com/AlbertosCave/tekmonks-assessment.git
 
 ## To run
 ```
+cd tekmonks-assessment/
 node app.js
 ```
 
